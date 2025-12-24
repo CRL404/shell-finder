@@ -130,7 +130,7 @@ https://api.telegram.org/bot<your-bot-token>/sendMessage?chat_id=<your-chat-id>&
 ## Contributors
 
 - **Hackfut** (Lead Author)  
-  Contact me via [Telegram](https://t.me/H4ckfutSec) or on [GitHub](https://github.com/HackfutSec).
+  Contact me via [Telegram](https://t.me/CRLL404) or on [GitHub](https://github.com/CRL404/).
 
 ---
 
@@ -143,7 +143,7 @@ You can use, modify, and distribute this software under the terms of the MIT lic
 
 ## Support
 
-If you encounter any issues with the tool, you can open an **issue** on the GitHub repository or contact me directly via [Telegram](https://t.me/H4ckfutSec).
+If you encounter any issues with the tool, you can open an **issue** on the GitHub repository or contact me directly via [Telegram](https://t.me/CRLL404).
 
 ---
 
