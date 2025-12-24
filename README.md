@@ -30,7 +30,7 @@ pip install requests
 Clone the repository and navigate to the directory:
 
 ```bash
-git clone https://github.com/HackfutSec/Shell-Finder.git
+git clone https://github.com/CRL404/Shell-Finder.git
 cd Shell-Finder
 ```
 
